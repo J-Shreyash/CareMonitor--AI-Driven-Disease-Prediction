@@ -1,0 +1,1 @@
+Tech: Exploratory Data Analysis:(Distribution Plots, Correlation Matrix), Performance Comparison of (Logistic Regression, KNN, SVM, Decision Tree, Random Forest, Gradient Boosting, XGBoost) for better disease prediction of heart, diabetes, liver and kidney, Streamlit.
